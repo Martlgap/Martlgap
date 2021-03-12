@@ -1,6 +1,6 @@
 ## Hi there 👋 it's Martin,
 
-I am currently a Ph.D.student at Institute of Human-Machine Communication, 
+I am currently a Ph.D. student at Institute of Human-Machine Communication, 
 Technical University of Munich. 
 
 I’m currently working on tasks related to face-recognition and super-resolution.
