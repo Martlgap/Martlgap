@@ -3,7 +3,7 @@
 I am currently a Ph.D. student at Institute of Human-Machine Communication, 
 Technical University of Munich. 
 
-I’m currently working on tasks related to face-recognition and super-resolution.
+Working on tasks related to face-recognition and super-resolution.
 
 [![Website](https://img.shields.io/badge/Website-https://martlgap.github.io/-14CDAB?style=for-the-badge&logo=appveyor)](https://martlgap.github.io/)
 
