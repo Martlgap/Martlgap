@@ -5,7 +5,7 @@ Technical University of Munich.
 
 I’m currently working on tasks related to face-recognition and super-resolution.
 
-[![Website](https://img.shields.io/badge/Website-https://martlgap.github.io/-14CDAB?style=for-the-badge&logo=appveyor)](https://martlgap.github.io/).
+[![Website](https://img.shields.io/badge/Website-https://martlgap.github.io/-14CDAB?style=for-the-badge&logo=appveyor)](https://martlgap.github.io/)
 
 ---
 
@@ -30,4 +30,8 @@ I’m currently working on tasks related to face-recognition and super-resolutio
 ---
 
 ## ✉️ Contact
-[![Email](https://img.shields.io/badge/Email-Martin.Knoche@tum.de-640D0A?style=for-the-badge&logo=appveyor)](mailto:Martin.Knoche@tum.de).
+[![Email](https://img.shields.io/badge/Email-Martin.Knoche@tum.de-640D0A?style=for-the-badge&logo=appveyor)](mailto:Martin.Knoche@tum.de)
+
+[![Social](https://img.shields.io/badge/Social-LinkedIn-640D0A?style=for-the-badge&logo=appveyor)](https://www.linkedin.com/in/martinknoche)
+
+[![Social](https://img.shields.io/badge/Social-Xing-640D0A?style=for-the-badge&logo=appveyor)](https://www.xing.com/profile/Martin_Knoche7/)
