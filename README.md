@@ -18,7 +18,7 @@ Working on tasks related to face-recognition and super-resolution.
 ![OS](https://img.shields.io/badge/Language-German-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Language-English-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/VCS-Git-14CCDB?style=for-the-badge&logo=appveyor)
-![OS](https://img.shields.io/badge/Grafics-AdobeIllustrator-14CCDB?style=for-the-badge&logo=appveyor)
+![OS](https://img.shields.io/badge/Graphics-AdobeIllustrator-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Writing-LaTex-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Shell-zsh-14CCDB?style=for-the-badge&logo=appveyor)
 
