@@ -25,7 +25,7 @@ Working on tasks related to face-recognition and super-resolution.
 ---
 
 ## 📈 Stats
-[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martlgap&hide=contribs,prs&count_private=true&show_icons=true&theme=dark&custom_title&icon_color=ffffff)](https://github.com/Martlgap/Martlgap)
+[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martlgap&hide=prs&count_private=true&show_icons=true&theme=dark&custom_title&icon_color=ffffff)](https://github.com/Martlgap/Martlgap)
 
 ---
 
