@@ -29,6 +29,11 @@ Working on tasks related to face-recognition and super-resolution.
 
 ---
 
+## 🧑🏼‍💻 Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martlgap&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## ✉️ Contact
 [![Email](https://img.shields.io/badge/Email-Martin.Knoche@tum.de-640D0A?style=for-the-badge&logo=appveyor)](mailto:Martin.Knoche@tum.de)
 
