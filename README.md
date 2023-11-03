@@ -5,7 +5,7 @@ Technical University of Munich.
 
 Working on tasks related to face-recognition and super-resolution.
 
-[![Website](https://img.shields.io/badge/Website-https://martlgap.github.io/-14CDAB?style=for-the-badge&logo=appveyor)](https://martlgap.github.io/)
+[![Portfolio Website](https://img.shields.io/badge/Website-https://martinknoche.net/-14CDAB?style=for-the-badge&logo=appveyor)](https://martinknoche.net/)
 
 ---
 
