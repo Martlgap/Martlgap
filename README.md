@@ -13,7 +13,7 @@ Working on tasks related to face-recognition and super-resolution.
 ![OS](https://img.shields.io/badge/OS-MacOS-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Code-Python-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Platform-Tensorflow2-14CCDB?style=for-the-badge&logo=appveyor)
-![OS](https://img.shields.io/badge/IDE-PyCharm-14CCDB?style=for-the-badge&logo=appveyor)
+![OS](https://img.shields.io/badge/IDE-VSCode-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Codestyle-Black-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Language-German-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Language-English-14CCDB?style=for-the-badge&logo=appveyor)
