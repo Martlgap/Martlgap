@@ -1,9 +1,9 @@
 ## Hi there 👋 it's Martin,
 
-I am currently a Ph.D. student at Institute of Human-Machine Communication, 
-Technical University of Munich. 
+I am research associate at the Institute of Human-Machine Communication, 
+Technical University of Munich, with the aim of obtaining a doctorate (PhD). 
 
-Working on tasks related to face-recognition and super-resolution.
+Working on tasks related to cross-resolution face verification.
 
 [![Portfolio Website](https://img.shields.io/badge/Website-https://martinknoche.net/-14CDAB?style=for-the-badge&logo=appveyor)](https://martinknoche.net/)
 
