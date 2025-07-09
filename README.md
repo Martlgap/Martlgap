@@ -10,6 +10,7 @@ Find more information about me:
 
 ## 🛠 Technologies & Tools
 ![OS](https://img.shields.io/badge/OS-MacOS-14CCDB?style=for-the-badge&logo=appveyor)
+![OS](https://img.shields.io/badge/AI-GH-CoPilot-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Code-Python-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Platform-Tensorflow2-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/IDE-VSCode-14CCDB?style=for-the-badge&logo=appveyor)
@@ -20,6 +21,10 @@ Find more information about me:
 ![OS](https://img.shields.io/badge/Graphics-AdobeIllustrator-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Writing-LaTex-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Shell-zsh-14CCDB?style=for-the-badge&logo=appveyor)
+![OS](https://img.shields.io/badge/AIFrameworks-langgraph-14CCDB?style=for-the-badge&logo=appveyor)
+![OS](https://img.shields.io/badge/AIFrameworks-mcp-14CCDB?style=for-the-badge&logo=appveyor)
+![OS](https://img.shields.io/badge/Frameworks-zuul-14CCDB?style=for-the-badge&logo=appveyor)
+![OS](https://img.shields.io/badge/Frameworks-ansible-14CCDB?style=for-the-badge&logo=appveyor)
 
 ---
 
