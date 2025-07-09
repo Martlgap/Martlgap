@@ -1,9 +1,8 @@
 ## Hi there 👋 it's Martin,
 
-I am research associate at the Institute of Human-Machine Communication, 
-Technical University of Munich, with the aim of obtaining a doctorate (PhD). 
+I am currently working at BMW as a CI/CD Software Engineer with a strong focus on AI related topics. 
 
-Working on tasks related to cross-resolution face verification.
+Find more information about me:
 
 [![Portfolio Website](https://img.shields.io/badge/Website-https://martinknoche.net/-14CDAB?style=for-the-badge&logo=appveyor)](https://martinknoche.net/)
 
