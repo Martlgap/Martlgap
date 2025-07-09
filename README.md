@@ -10,7 +10,7 @@ Find more information about me:
 
 ## 🛠 Technologies & Tools
 ![OS](https://img.shields.io/badge/OS-MacOS-14CCDB?style=for-the-badge&logo=appveyor)
-![OS](https://img.shields.io/badge/AI-GH-CoPilot-14CCDB?style=for-the-badge&logo=appveyor)
+![OS](https://img.shields.io/badge/AI-GHCoPilot-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Code-Python-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Platform-Tensorflow2-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/IDE-VSCode-14CCDB?style=for-the-badge&logo=appveyor)
