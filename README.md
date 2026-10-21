@@ -12,29 +12,19 @@ Find more information about me:
 ![OS](https://img.shields.io/badge/OS-MacOS-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/AI-GHCoPilot-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Code-Python-14CCDB?style=for-the-badge&logo=appveyor)
-![OS](https://img.shields.io/badge/Platform-Tensorflow2-14CCDB?style=for-the-badge&logo=appveyor)
+![OS](https://img.shields.io/badge/ML-Tensorflow2-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/IDE-VSCode-14CCDB?style=for-the-badge&logo=appveyor)
-![OS](https://img.shields.io/badge/Codestyle-Black-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Language-German-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Language-English-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/VCS-Git-14CCDB?style=for-the-badge&logo=appveyor)
-![OS](https://img.shields.io/badge/Graphics-AdobeIllustrator-14CCDB?style=for-the-badge&logo=appveyor)
+![OS](https://img.shields.io/badge/Graphics-AdobeCS-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Writing-LaTex-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Shell-zsh-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/AIFrameworks-langgraph-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/AIFrameworks-mcp-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Frameworks-zuul-14CCDB?style=for-the-badge&logo=appveyor)
 ![OS](https://img.shields.io/badge/Frameworks-ansible-14CCDB?style=for-the-badge&logo=appveyor)
-
----
-
-## 📈 Stats
-[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martlgap&hide=prs&count_private=true&show_icons=true&theme=dark&custom_title&icon_color=ffffff)](https://github.com/Martlgap/Martlgap)
-
----
-
-## 🧑🏼‍💻 Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martlgap&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![OS](https://img.shields.io/badge/Cloud-AWS-14CCDB?style=for-the-badge&logo=appveyor)
 
 ---
 
