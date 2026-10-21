@@ -1,6 +1,6 @@
 ## Hi there 👋 it's Martin,
 
-I am currently working at BMW as a CI/CD Software Engineer with a strong focus on AI related topics. 
+I am currently working at BMW as a AI Developer Platform Lead within the CI/CD DevOps Team. 
 
 Find more information about me:
 
